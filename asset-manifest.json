@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/procedural-generation-visualizer/static/css/main.b0f1ef30.chunk.css",
+    "main.js": "/procedural-generation-visualizer/static/js/main.138187c7.chunk.js",
+    "main.js.map": "/procedural-generation-visualizer/static/js/main.138187c7.chunk.js.map",
+    "runtime-main.js": "/procedural-generation-visualizer/static/js/runtime-main.5565eb26.js",
+    "runtime-main.js.map": "/procedural-generation-visualizer/static/js/runtime-main.5565eb26.js.map",
+    "static/css/2.0fbc43c7.chunk.css": "/procedural-generation-visualizer/static/css/2.0fbc43c7.chunk.css",
+    "static/js/2.9284a62c.chunk.js": "/procedural-generation-visualizer/static/js/2.9284a62c.chunk.js",
+    "static/js/2.9284a62c.chunk.js.map": "/procedural-generation-visualizer/static/js/2.9284a62c.chunk.js.map",
+    "index.html": "/procedural-generation-visualizer/index.html",
+    "precache-manifest.35352830990cb2c1077a6b8dc858cdac.js": "/procedural-generation-visualizer/precache-manifest.35352830990cb2c1077a6b8dc858cdac.js",
+    "service-worker.js": "/procedural-generation-visualizer/service-worker.js",
+    "static/css/2.0fbc43c7.chunk.css.map": "/procedural-generation-visualizer/static/css/2.0fbc43c7.chunk.css.map",
+    "static/css/main.b0f1ef30.chunk.css.map": "/procedural-generation-visualizer/static/css/main.b0f1ef30.chunk.css.map",
+    "static/js/2.9284a62c.chunk.js.LICENSE.txt": "/procedural-generation-visualizer/static/js/2.9284a62c.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/procedural-generation-visualizer/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/procedural-generation-visualizer/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5565eb26.js",
+    "static/css/2.0fbc43c7.chunk.css",
+    "static/js/2.9284a62c.chunk.js",
+    "static/css/main.b0f1ef30.chunk.css",
+    "static/js/main.138187c7.chunk.js"
+  ]
+}
