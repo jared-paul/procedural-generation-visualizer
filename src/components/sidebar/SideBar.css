@@ -1,0 +1,97 @@
+.sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #171716;
+    color: #f0f0f0;
+    margin-left: -250px;
+    transition: all 0.5s;
+}
+
+.options-sidebar {
+    min-width: 350px;
+    max-width: 350px;
+    background: #171716;
+    color: #f0f0f0;
+    transition: all 0.5s;
+}
+  
+.sidebar.is-open {
+  margin-left: 0;
+  transition: .5s;
+}
+
+.sidebar-header {
+  background: #171716;
+  color: #f0f0f0;
+}
+
+.sidebar-header h3{
+  color: #f0f0f0;
+  padding: 1em;
+}
+
+.sidebar ul p {
+  color: #f0f0f0;
+  padding: 10px;
+}
+
+.collapse.show, 
+.collapsing {
+  background: #171716;
+}
+
+.footer {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+}
+
+.nav-item {
+  /*color: #ced4da;*/
+  color: #f0f0f0;
+  font-weight: 300;
+}
+
+.nav-item.open {
+  color: #f0f0f0;
+  background: #171716;
+}
+
+.nav-item.active {
+  color: #f0f0f0;
+  background: #313b4c !important;
+}
+
+
+.hovered {
+  background: #313b4c;
+  color: #f0f0f0;
+  transition: .2s;
+}
+
+.nav-item .svg-inline--fa {
+  color: inherit;
+}
+
+li a.dropdown-toggle::after {
+  display: inline-flex;
+  position: relative;
+  left: 60%;
+  top: 10%
+}
+
+.sidebar-header > button {
+  position: relative;
+  float: right;
+  margin: .5em;
+  font-size: 2rem;
+  cursor: pointer;
+  display: none;
+}
+
+.visualize-button {
+  text-transform: none;
+  font-size: large;
+  color: white;
+  background-color: royalblue !important;
+}
